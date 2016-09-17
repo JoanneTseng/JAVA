@@ -23,7 +23,6 @@ public class Count_odd {
 	 * 計算在某範圍內所有奇數和
 	 * 
 	 * @param 
-	 * 
 	 */
 
 	public static void main(String[] args) throws IOException {
